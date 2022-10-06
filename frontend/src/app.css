@@ -1,0 +1,31 @@
+.app {
+  width: 96%;
+  margin: 2rem 2rem 2rem 2rem;
+}
+
+
+/* .app .header .title{
+  color: red;
+} */
+/* This is the header */
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  flex: 1;
+  /* background-color: blue; */
+  font-size: 3em;
+}
+
+.mini-header {
+  flex: 1;
+  /* background-color: red; */
+  display: flex;
+}
+
+.mini-header h3 {
+  margin-right: 1em;
+  font-size: 1.8em;
+}

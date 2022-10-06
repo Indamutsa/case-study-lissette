@@ -1,0 +1,28 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+table td,
+table th {
+    /* border: 1px solid #ddd; */
+    padding: 5px;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: rgb(246, 246, 246);
+}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(169, 169, 169);
+    /* Changing the background of the title*/
+    color: white;
+}

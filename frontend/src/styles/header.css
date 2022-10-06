@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 2em;
+}
+
+/* Droid text */
+.header .img {
+  flex: 1;
+}
+
+/* Navigation text when no hightlighted */
+.nav {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-right: 4rem;
+  font-size: 1.5rem;
+  color : #3B1342;
+}
+
+.navHome {
+  margin-right: 5rem;
+  text-decoration: none;
+  color : #3B1342;
+}
+
+/* Survey button */
+.navSurvey {
+  margin-left: 5rem;
+  text-decoration: none;
+  color : #3B1342;
+}
+
+/* Home button */
+.navActive {
+  color: #fff;
+  background-color: #BF557B;
+  margin-right: 5rem;
+  margin-left: 5rem;
+  text-decoration: none;
+  padding: 0.4rem 0.8rem 0.4rem 0.8rem;
+  font-size: 1.5rem;
+}

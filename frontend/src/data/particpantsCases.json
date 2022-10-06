@@ -1,0 +1,122 @@
+[
+  {
+    "caseID": 8,
+    "paticipantsIds": [1, 2, 3]
+  },
+  {
+    "caseID": 27,
+    "paticipantsIds": [1, 2, 3]
+  },
+  {
+    "caseID": 37,
+    "paticipantsIds": [1, 2, 3]
+  },
+  {
+    "caseID": 38,
+    "paticipantsIds": [4, 5, 6]
+  },
+  {
+    "caseID": 42,
+    "paticipantsIds": [4, 5, 6]
+  },
+  {
+    "caseID": 54,
+    "paticipantsIds": [4, 5, 6]
+  },
+  {
+    "caseID": 58,
+    "paticipantsIds": [7, 8, 9]
+  },
+  {
+    "caseID": 69,
+    "paticipantsIds": [7, 8, 9]
+  },
+  {
+    "caseID": 73,
+    "paticipantsIds": [7, 8, 9]
+  },
+  {
+    "caseID": 105,
+    "paticipantsIds": [10, 11, 12]
+  },
+  {
+    "caseID": 108,
+    "paticipantsIds": [10, 11, 12]
+  },
+  {
+    "caseID": 115,
+    "paticipantsIds": [10, 11, 12]
+  },
+  {
+    "caseID": 116,
+    "paticipantsIds": [13, 14, 15]
+  },
+  {
+    "caseID": 126,
+    "paticipantsIds": [13, 14, 15]
+  },
+  {
+    "caseID": 138,
+    "paticipantsIds": [13, 14, 15]
+  },
+  {
+    "caseID": 141,
+    "paticipantsIds": [16, 17, 18]
+  },
+  {
+    "caseID": 163,
+    "paticipantsIds": [16, 17, 18]
+  },
+  {
+    "caseID": 190,
+    "paticipantsIds": [16, 17, 18]
+  },
+  {
+    "caseID": 197,
+    "paticipantsIds": [19, 20, 21]
+  },
+  {
+    "caseID": 198,
+    "paticipantsIds": [19, 20, 21]
+  },
+  {
+    "caseID": 206,
+    "paticipantsIds": [19, 20, 21]
+  },
+  {
+    "caseID": 236,
+    "paticipantsIds": [22, 23, 24]
+  },
+  {
+    "caseID": 245,
+    "paticipantsIds": [22, 23, 24]
+  },
+  {
+    "caseID": 258,
+    "paticipantsIds": [22, 23, 24]
+  },
+  {
+    "caseID": 266,
+    "paticipantsIds": [25, 26, 27]
+  },
+  {
+    "caseID": 269,
+    "paticipantsIds": [25, 26, 27]
+  },
+  {
+    "caseID": 280,
+    "paticipantsIds": [25, 26, 27]
+  },
+  {
+    "caseID": 317,
+    "paticipantsIds": [28, 29, 30]
+  },
+  {
+    "caseID": 100,
+    "paticipantsIds": [28, 29, 30]
+  },
+  {
+    "caseID": 200,
+    "paticipantsIds": [28, 29, 30]
+  }
+]

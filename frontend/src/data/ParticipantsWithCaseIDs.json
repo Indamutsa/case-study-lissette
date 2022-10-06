@@ -1,0 +1,122 @@
+[
+  {
+    "paticipantID": 1,
+    "caseID": [8, 27, 37]
+  },
+  {
+    "paticipantID": 2,
+    "caseID": [8, 27, 37]
+  },
+  {
+    "paticipantID": 3,
+    "caseID": [8, 27, 37]
+  },
+  {
+    "paticipantID": 4,
+    "caseID": [38, 42, 54]
+  },
+  {
+    "paticipantID": 5,
+    "caseID": [38, 42, 54]
+  },
+  {
+    "paticipantID": 6,
+    "caseID": [38, 42, 54]
+  },
+  {
+    "paticipantID": 7,
+    "caseID": [58, 69, 73]
+  },
+  {
+    "paticipantID": 8,
+    "caseID": [58, 69, 73]
+  },
+  {
+    "paticipantID": 9,
+    "caseID": [58, 69, 73]
+  },
+  {
+    "paticipantID": 10,
+    "caseID": [105, 108, 115]
+  },
+  {
+    "paticipantID": 11,
+    "caseID": [105, 108, 115]
+  },
+  {
+    "paticipantID": 12,
+    "caseID": [105, 108, 115]
+  },
+  {
+    "paticipantID": 13,
+    "caseID": [116, 126, 138]
+  },
+  {
+    "paticipantID": 14,
+    "caseID": [116, 126, 138]
+  },
+  {
+    "paticipantID": 15,
+    "caseID": [116, 126, 138]
+  },
+  {
+    "paticipantID": 16,
+    "caseID": [141, 163, 190]
+  },
+  {
+    "paticipantID": 17,
+    "caseID": [141, 163, 190]
+  },
+  {
+    "paticipantID": 18,
+    "caseID": [141, 163, 190]
+  },
+  {
+    "paticipantID": 19,
+    "caseID": [197, 198, 206]
+  },
+  {
+    "paticipantID": 20,
+    "caseID": [197, 198, 206]
+  },
+  {
+    "paticipantID": 21,
+    "caseID": [197, 198, 206]
+  },
+  {
+    "paticipantID": 22,
+    "caseID": [236, 245, 258]
+  },
+  {
+    "paticipantID": 23,
+    "caseID": [236, 245, 258]
+  },
+  {
+    "paticipantID": 24,
+    "caseID": [236, 245, 258]
+  },
+  {
+    "paticipantID": 25,
+    "caseID": [266, 269, 280]
+  },
+  {
+    "paticipantID": 26,
+    "caseID": [266, 269, 280]
+  },
+  {
+    "paticipantID": 27,
+    "caseID": [266, 269, 280]
+  },
+  {
+    "paticipantID": 28,
+    "caseID": [317, 100, 200]
+  },
+  {
+    "paticipantID": 29,
+    "caseID": [317, 100, 200]
+  },
+  {
+    "paticipantID": 30,
+    "caseID": [317, 100, 200]
+  }
+]

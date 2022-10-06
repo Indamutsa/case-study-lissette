@@ -1,0 +1,100 @@
+/* The main container */
+.container {
+    display: flex;
+}
+
+/******************** Left block ********************/
+.leftBlock {
+    flex: 1.2;
+    /* background-color: aquamarine; */
+}
+
+.image {
+    width: 385px;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.description {
+    font-size: 1.2rem;
+    justify-content: space-around;
+    text-align: justify;
+    text-justify: inter-word;
+    width: 90%;
+
+}
+
+.description h3 {
+    margin-left: -0.05rem;
+
+}
+
+.description ul {
+    margin-left: 2rem;
+}
+
+.description ul li b {
+    font-weight: 500;
+}
+
+/******************** Right block ********************/
+.rightBlock {
+    flex: 2;
+    /* background-color: aqua; */
+}
+
+h3 {
+    margin-left: 0rem;
+    margin-bottom: 1rem;
+}
+
+.tableRow {
+    margin-top: 0.7rem;
+}
+
+
+.submi {
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 4rem;
+    margin-right: 13rem;
+    justify-content: flex-end;
+}
+
+.submi input {
+    /* border: none; */
+    width: 20rem;
+    height: 2rem;
+    margin-right: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.submi input:focus {
+    outline: none;
+}
+
+.submi input::placeholder {
+    font-size: 1rem;
+}
+
+.submi button {
+    width: 8rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+
+.radios {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.radios input {
+    margin-right: 0.8rem;
+}

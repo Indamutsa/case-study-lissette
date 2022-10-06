@@ -1,0 +1,76 @@
+.rowItem {
+  display: flex;
+  margin-left: 4rem;
+  font-size: 1.2rem;
+}
+
+.rowItem p {
+  flex: 1.8;
+  margin-bottom: 0.4rem;
+}
+
+.checkboxes {
+  flex: 10;
+  /* margin-right: 8.5rem; */
+  display: flex;
+  /* align-items: center; */
+  
+}
+
+.checkboxes input:first-child {
+  margin-left: 2.2rem;
+  margin-right: 7rem;
+}
+
+.checkboxes input:nth-child(2) {
+  margin-right: 8rem;
+}
+
+.checkboxes input:nth-child(3) {
+  margin-left: 0.1rem;
+  margin-right: 10rem;
+}
+
+.checkboxes input:nth-child(4) {
+  margin-right: 10rem;
+}
+
+.submi {
+  display: flex;
+  margin-top: 3rem;
+  margin-left: 4rem;
+  margin-right: 13rem;
+  justify-content: flex-end;
+  font-size: large;
+}
+
+.submi input {
+  /* border: none; */
+  width: 25rem;
+  height: 2rem;
+  margin-right: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+.submi input:focus {
+  outline: none;
+}
+
+.submi button {
+  width: 8rem;
+  margin-right: 1rem;
+}
+
+
+
+.radios {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.radios input {
+  margin-right: 0.8rem;
+}
